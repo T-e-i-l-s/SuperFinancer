@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основной экран ленты -->
+    <string name="events">События</string>
+    <string name="create_event_button_text">+</string>
+    <string name="add_to_favorites">В избранное</string>
+    <string name="in_favorites">В избранном</string>
+
+    <!-- Экранн избранных событий -->
+    <string name="favorites">Избранное</string>
+    <string name="favorites_are_empty">Здесь пока пусто</string>
+
+    <!-- Экран создания поста -->
+    <string name="create_event">Новое событие</string>
+    <string name="tags">Теги</string>
+    <string name="publication_text">Текст публикации…</string>
+    <string name="publish">Добавить</string>
+
+    <!-- Названия тегов  -->
+    <string name="tag_education">Образование</string>
+    <string name="tag_lifestyle">Лайфстайл</string>
+    <string name="tag_future">Будущее</string>
+    <string name="tag_meal">Еда</string>
+    <string name="tag_travel">Путешествие</string>
+</resources>

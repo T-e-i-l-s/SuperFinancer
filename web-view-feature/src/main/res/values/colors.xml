@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Background Fill  -->
+    <color name="background">#FFFFFF</color>
+    <color name="secondary_background">#F2F2F2</color>
+
+    <!--  Content Colors  -->
+    <color name="content">#000000</color>
+</resources>

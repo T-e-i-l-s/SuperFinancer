@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Background Fill  -->
+    <color name="background">#FFFFFF</color>
+    <color name="secondary_background">#F2F2F2</color>
+    <color name="image_background">#E3E6F0</color>
+
+    <!--  Content Colors  -->
+    <color name="content">#141414</color>
+    <color name="additional">#6B4EFF</color>
+    <color name="red">#ED4747</color>
+    <color name="yellow">#FFD500</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#7C7C7C</color>
+    <color name="green">#00B147</color>
+
+    <!-- Цвета тегов -->
+    <color name="tag_education_color">#33FFBF00</color>
+    <color name="tag_lifestyle_color">#330089FF</color>
+    <color name="tag_future_color">#338900FF</color>
+    <color name="tag_meal_color">#33FF0032</color>
+    <color name="tag_travel_color">#3300FF38</color>
+</resources>

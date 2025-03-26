@@ -1,0 +1,32 @@
+<resources>
+    <!-- Табы -->
+    <string name="home_screen">Главная</string>
+    <string name="budget_screen">Бюджет</string>
+    <string name="feed_screen">Лента</string>
+
+    <!-- Главный экран -->=
+    <string name="refresh">Обновить</string>
+    <string name="news">Новости</string>
+    <string name="share">Поделиться</string>
+    <string name="loading_error">Ошибка загрузки</string>
+
+    <!-- Экран финансового планировщика -->
+    <string name="goals">Цели</string>
+    <string name="operations">Операции</string>
+    <string name="add">Добавить</string>
+    <string name="top_up">Пополнение</string>
+    <string name="withdraw">Вывод</string>
+    <string name="create_goal">Создать цель</string>
+    <string name="title">Название</string>
+    <string name="sum">Сумма</string>
+    <string name="create">Создать</string>
+    <string name="cancel">Отмена</string>
+    <string name="goal_description">Описание</string>
+    <string name="goal_deadline">Дедлайн</string>
+    <string name="total_goal">Всего необходимо %s ₽</string>
+    <string name="delete_goal">Удалить</string>
+    <string name="goal_deadline_string">(до %s)</string>
+
+    <!-- Экран с полной новостью -->
+    <string name="create_event_button_text">+</string>
+</resources>
